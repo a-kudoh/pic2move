@@ -1,4 +1,4 @@
-# pic2moveie
+# pic2move
 [pix2pix](https://phillipi.github.io/pix2pix/)をベースに入力画像から短い動画を生成する。
 
 
@@ -7,9 +7,9 @@
 ### クローンして実行
 
 ```sh
-# clone this repo
-git clone https://github.com/affinelayer/pix2pix-tensorflow.git
-cd pix2pix-tensorflow
+# clone
+git clone https://github.com/a-kudoh/pic2move
+cd pic2move
 # download the CMP Facades dataset (generated from http://cmp.felk.cvut.cz/~tylecr1/facade/)
 python tools/download-dataset.py facades
 # train the model (this may take 1-8 hours depending on GPU, on CPU you will be waiting for a bit)
