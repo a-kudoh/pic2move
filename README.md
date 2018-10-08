@@ -1,6 +1,8 @@
 # pic2move(編集中)
 [pix2pix](https://phillipi.github.io/pix2pix/)をベースに入力画像から短い動画を生成する。
 
+記事にまとめています。
+http://ku-don.com/2018/10/08/post-259/
 
 ## セットアップ
 
